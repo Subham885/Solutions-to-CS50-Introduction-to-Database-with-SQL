@@ -1,0 +1,1 @@
+These are my solutions to the [CS50 Introduction to Databases with SQL](https://learning.edx.org/course/course-v1:HarvardX+CS50SQL+SQL/home) course
